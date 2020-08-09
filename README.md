@@ -1,2 +1,2 @@
 # LinearRegression-1
-An intro towards Linear Regression machine learning model.
+An introduction towards Linear Regression machine learning model.
