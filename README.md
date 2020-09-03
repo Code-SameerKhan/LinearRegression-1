@@ -1,4 +1,4 @@
-# LinearRegression-1
+# Canada's per capita income prediction
 An introduction towards Linear Regression machine learning model.
 Linear regression is a type of machine learning algorithm that works on continuous data points.
 It is one of the very basic forms of machine learning where we train a model to predict the behaviour of your data based on some variables. 
