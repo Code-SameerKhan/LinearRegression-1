@@ -19,3 +19,13 @@ This dataset contains 2 features-
 With the help of Matplotlib library's scatter plot represention we can visualize the data
 
 ![](visuals/scatter_plot.png)
+
+# Model building
+
+From the above graphical representation we can see that there is a linear relationship between year and per capita income in that year.
+Hence we employ Linear regression machine learning algorithm and determine following-
+
+* Weights or coefficients
+* Intercept
+
+With these 
