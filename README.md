@@ -12,5 +12,6 @@ This dataset contains 2 features-
 * Per capita income of a citizen
 * Year
 
-# Visualization
+![](visuals/feature_description.png)
 
+# Visualization
