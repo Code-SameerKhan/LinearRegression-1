@@ -28,4 +28,6 @@ Hence we employ Linear regression machine learning algorithm and determine follo
 * Weights or coefficients
 * Intercept
 
-With these 
+With these features we can determine best fit line that would align with the prediction.
+
+![](visuals/best_fit_line.png)
