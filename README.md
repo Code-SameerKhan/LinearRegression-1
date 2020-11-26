@@ -31,3 +31,7 @@ Hence we employ Linear regression machine learning algorithm and determine follo
 With these features we can determine best fit line that would align with the prediction.
 
 ![](visuals/best_fit_line.png)
+
+# Result
+
+We determine that our linear regression model predicts with 86.4 % accuracy
