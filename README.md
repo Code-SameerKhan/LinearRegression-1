@@ -15,3 +15,7 @@ This dataset contains 2 features-
 ![](visuals/feature_description.png)
 
 # Visualization
+
+With the help of Matplotlib library's scatter plot represention we can visualize the data
+
+![](visuals/scatter_plot.png)
